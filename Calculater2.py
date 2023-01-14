@@ -1,6 +1,7 @@
 a = int("12")
 
 b = int("12")
+
 print("Addition of two number = " , a+b)
 
 print("Substraction of two number = " , a-b)
